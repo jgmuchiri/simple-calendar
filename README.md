@@ -4,6 +4,8 @@
 
 This is might have an outdate version of CodeIgniter. Good for starters.
 
+![screenshot](screenshot.png)
+
 ## ABOUT
 
 Simple Calendar is a customizable php/mysql calendar that utilizes CodeIgniter framework and Arshaw's Fullcalendar plugin.
